@@ -13,9 +13,8 @@ aside {
 }
 
 
-.preview p{
-	margin:70%
-	float:right;
+.preview p{ 
+	float:left;
 }
 .preview img{
 	float:left;
@@ -55,7 +54,10 @@ ul,li{list-style: none;}
 	right: -140px;
 	top: 0px;
 }
-
+.tipo_pepe table{
+	 border-collapse: separate;
+	 border-width: 1px;
+}
 .clear{
 	clear: both;
 }
