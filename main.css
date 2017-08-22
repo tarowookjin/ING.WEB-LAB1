@@ -1,8 +1,23 @@
 
 
 
-.meme-preview p{
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
 
+
+.preview p{
+	float:left;
+}
+.preview img{
+	float:left;
 }
 ul,li{list-style: none;}
 
