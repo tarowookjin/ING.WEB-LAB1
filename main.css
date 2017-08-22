@@ -1,3 +1,25 @@
+
+
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+
+.preview p{
+	margin:70%
+	float:right;
+}
+.preview img{
+	float:left;
+}
 #top_menu{
 	background-color: #5da5a2;
 	display: block;
@@ -37,7 +59,10 @@ ul,li{list-style: none;}
 .clear{
 	clear: both;
 }
+<<<<<<< HEAD
 
 body{
 	background-color:#F2F2F2; 
 }
+=======
+>>>>>>> e4af40428bdd01373e30a27988065e5e45e34e00
