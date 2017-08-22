@@ -14,7 +14,8 @@ aside {
 
 
 .preview p{
-	float:left;
+	margin:70%
+	float:right;
 }
 .preview img{
 	float:left;
