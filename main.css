@@ -1,12 +1,16 @@
-ul,li{list-style: none;}
+#top_menu{
+	background-color: #5da5a2;
+	display: block;
+ 	height: 40px;
+}
 
+ul,li{list-style: none;}
 .menu li a {
 	/*Todas las listas en el nav-enlaces*/
 	background-color: #5da5a2;
 	color: white;
 	text-decoration: none;
-	margin: 0;
-	padding: 0;
+	padding: 10px 15px;
 	display: block; 
 }/*para que no esten en linea*/
 
