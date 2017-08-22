@@ -1,25 +1,50 @@
+header
+{
+	border-radius:20px 20px 0px 0;
+	background:#1de9b6;
+	margin:0px;
+	margin-bottom:-24px;
+	color:white;
+	border:
+}
 
+div.form-box{
+	background:#004d40;
+	padding :20px;
+	color:white;
+}
+div.form-box input[type=text]
+{
+	box-sizing:border-box;
+	overflow:hidden;
+	width :90%;
+}
 
-
+article
+{
+	background:#66bb6a;
+}
 section {
   float: left;
   margin: 0 1.5%;
-  width: 63%;
+  background:#4caf50;
+  width: 72%;
 }
 aside {
   float: right;
   margin: 0 1.5%;
-  width: 30%;
+  width: 20%;
 }
 
 
 .preview p{
-	margin:70%
 	float:right;
+	width:70%;
 }
 .preview img{
 	float:left;
 }
+
 #top_menu{
 	background-color: #5da5a2;
 	display: block;
@@ -28,6 +53,7 @@ aside {
 
 ul,li{list-style: none;}
 .menu li a {
+	margin-top:0px;
 	/*Todas las listas en el nav-enlaces*/
 	background-color: #5da5a2;
 	color: white;
