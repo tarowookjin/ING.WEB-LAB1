@@ -81,7 +81,14 @@ ul,li{list-style: none;}
 	right: -140px;
 	top: 0px;
 }
-
+.tipo_pepe table{
+	 border-collapse: separate;
+	 border-width: 1px;
+}
 .clear{
 	clear: both;
 }
+body{
+	background-color:#F2F2F2; 
+}
+
